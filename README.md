@@ -11,9 +11,6 @@
   <a href="https://github.com/jvyctor/Consulta-tce">
     <img src="https://img.shields.io/badge/Case-Consulta%20TCE-0F8A92?style=flat-square&logo=github&logoColor=white" alt="Consulta TCE" />
   </a>
-  <a href="https://consultatce-dev.ssinformatica.net/">
-    <img src="https://img.shields.io/badge/Demo-Produção-0E848D?style=flat-square&logo=vercel&logoColor=white" alt="Demo" />
-  </a>
   <a href="https://github.com/jvyctor">
     <img src="https://img.shields.io/badge/GitHub-jvyctor-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
